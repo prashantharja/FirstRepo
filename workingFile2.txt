@@ -1,1 +1,3 @@
 this is a random text in workingFile2.txt
+
+adding some more content to workingFile2.txt
