@@ -1,4 +1,0 @@
-this is a random text in workingFile2.txt
-
-adding content in workingFile2.txt from main branch
-adding some more content to workingFile2.txt
